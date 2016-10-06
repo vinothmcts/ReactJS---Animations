@@ -2,7 +2,7 @@
 
 # Step 1 - Install React CSS Transitions Group
 
- This is React add-on used for creating basic CSS transitions and animations. We will install it from command prompt window −
+ This is React add-on used for creating basic CSS transitions and animations. We will install it from command prompt window 
  
         C:\Users\username\Desktop\reactApp>npm install react-addons-css-transition-group
 
