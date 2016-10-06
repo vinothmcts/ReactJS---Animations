@@ -16,5 +16,5 @@
      
 # REFERENCE :
 
-        [https://facebook.github.io/react/docs/animation.html](https://facebook.github.io/react/docs/animation.html)
-        [https://www.tutorialspoint.com/reactjs/reactjs_animations.htm](https://www.tutorialspoint.com/reactjs/reactjs_animations.htm)
+        https://facebook.github.io/react/docs/animation.html
+        https://www.tutorialspoint.com/reactjs/reactjs_animations.htm
