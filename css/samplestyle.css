@@ -1,0 +1,52 @@
+body{
+    line-height: 1;
+    background-color: aliceblue;
+}
+
+.wrapper{
+	margin: 5% 20%;
+}
+
+span div{
+    padding: 10px 0px;
+    background-color: cadetblue;
+    text-align: center;
+    margin: 10px 0px;
+    color: white;
+}
+
+.example-enter {
+   opacity: 0.01;
+   padding: 10px 0px;
+}
+
+.example-enter.example-enter-active {
+   opacity: 1;
+   transition: opacity 1000ms ease-in;
+   background-color: green;
+   padding: 10px 0px;
+}
+
+.example-leave {
+   opacity: 1;
+   padding: 10px 0px;
+}
+
+.example-leave.example-leave-active {
+   opacity: 0.01;
+   transition: opacity 1000ms ease-in;
+   background-color: red;
+   padding: 10px 0px;
+}
+
+button{
+	border: none;
+    padding: 14px;
+    color: white;
+    background-color: teal;
+    font-size: 20px;
+    border-radius: 25px;
+    margin: 30px 0px;
+    cursor: pointer;
+    outline: none;
+}
